@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    padding: 2rem;
+    font-family: sans-serif;
+  }
+  
+  .button-group {
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    margin: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .colorBox {
+    width: 300px;
+    height: 150px;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+    transition: background-color 0.4s ease;
+  }
+  
